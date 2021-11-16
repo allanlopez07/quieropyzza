@@ -1,0 +1,35 @@
+C:\Users\Henry La chira\Desktop\Chucky Burguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.dll
+C:\Users\Henry La chira\Desktop\Chucky Burguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.pdb
+C:\Users\Henry La chira\Desktop\Chucky Burguer2\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.csprojResolveAssemblyReference.cache
+C:\Users\Henry La chira\Desktop\Chucky Burguer2\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.dll
+C:\Users\Henry La chira\Desktop\Chucky Burguer2\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.pdb
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.dll.config
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.dll
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.pdb
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.dll
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.xml
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.dll
+C:\Users\Cliente\Desktop\Repos\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.pdb
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.dll.config
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.dll
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.pdb
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.dll
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.xml
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.csprojResolveAssemblyReference.cache
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.dll
+C:\Users\Henry La chira\Desktop\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.pdb
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.dll.config
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.dll
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\ChuckyBurguer.BL.pdb
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.dll
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.xml
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.dll
+C:\Users\Cliente\Desktop\ChuckyBurguer2\ChuckyBurguer\ChuckyBurguer.BL\obj\Debug\ChuckyBurguer.BL.pdb
